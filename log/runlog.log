@@ -1,0 +1,19 @@
+2020-03-31 14:46:05,863 logging_test.py[line:4]DEBUG debug info
+2020-03-31 14:46:05,863 logging_test.py[line:5]INFO hello 
+2020-03-31 14:46:05,864 logging_test.py[line:6]WARNING warning info
+2020-03-31 14:46:05,864 logging_test.py[line:7]ERROR error info
+2020-03-31 14:46:05,864 logging_test.py[line:8]CRITICAL critical info
+2020-03-31 14:54:44,612 logging_test.py[line:4]DEBUG debug info
+2020-03-31 14:54:44,612 logging_test.py[line:5]INFO hello 
+2020-03-31 14:54:44,612 logging_test.py[line:6]WARNING warning info
+2020-03-31 14:54:44,612 logging_test.py[line:7]ERROR error info
+2020-03-31 14:54:44,613 logging_test.py[line:8]CRITICAL critical info
+2020-03-31 14:55:31,140 logging_test.py[line:4]DEBUG debug info
+2020-03-31 14:55:31,141 logging_test.py[line:5]INFO hello 
+2020-03-31 14:55:31,141 logging_test.py[line:6]WARNING warning info
+2020-03-31 14:55:31,141 logging_test.py[line:7]ERROR error info
+2020-03-31 14:55:31,141 logging_test.py[line:8]CRITICAL critical info
+2020-03-31 15:12:55,828 kyb_logconf.py[line:28] INFO start app...
+2020-03-31 15:13:08,293 kyb_logconf.py[line:32] INFO check cancelBtn
+2020-03-31 15:13:10,340 kyb_logconf.py[line:41] INFO check skipBtn
+2020-03-31 15:13:10,399 kyb_logconf.py[line:46] INFO No skipBtn
